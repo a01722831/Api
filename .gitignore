@@ -1,3 +1,4 @@
 .env
 /node_modules
 utils/sql.js
+ca.pem
